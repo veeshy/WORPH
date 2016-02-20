@@ -1,0 +1,13 @@
+Running WORPH
+
+1. Add WORPH to your your MATLAB bath
+2. WORPH('[path of your iput file here]')  will make a Serpent or MCNP output file at the location of the input file 
+
+See WORPH_SCCTE for example input files.
+
+Contact Michael Eades with questions
+mike.eades.15@gmail.com with questions
+
+Thank you to Vishal Patel and Pete Husemeyer for thier help.
+
+WORPH uses catstruct by Jos van der Geest and mergestruct by Igor Kaufman downloaded form matlab file exchange.
